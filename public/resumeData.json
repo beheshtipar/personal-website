@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name":"Parsa Beheshti",
+    "occupation":"Electrical Engineering and Management student",
+    "description":"I am interested in hardware design, power electronics, cars, and sustainability",
+    "image":"profilepic.jpg",
+    "bio":"I am the son of first generation immigrants who moved to Canada in 2008. I have been fascinated with technology as far back as I could remember, and enjoy applying myself in creative ways to address problems of any size. I believe that we are at a point in time where all necessary technologies to drive a green transformation and overhaul of our society are available to us. Particularly, I want to put my focus on electrification of our transporation systems and making our energy systems more sustainable.",
+    "contactmessage":"Interested in getting in touch? Feel free to fill out the form below!",
+    "email": "beheshtipar@gmail.com",
+    "phone": "416-906-8987",
+    "address":{
+      "city":"Burlington",
+      "state":"Ontario",
+      "zip": ""
+    },
+    "website": "pbeh.ca",
+    "resumedownload":"https://personal165739-staging.s3.us-east-2.amazonaws.com/Parsa_Beheshti_Resume.pdf",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/beheshtipar/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/beheshtipar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"McMaster University",
+        "degree":"Bachelor of Engineering and Management, Electrical",
+        "graduated":"September 2016 - Present",
+        "description":"Combined 5-year program integrating electrical engineering and management principles through courses offered by the Faculty of Commerce."
+      }
+    ],
+    "work":[
+      {
+        "company":"L3Harris WESCAM",
+        "title":"Electrical Engineering Co-op",
+        "years":"May 2019 - August 2020",
+        "description":"Functioning as a junior designer on the New Product Introduction team, I was responsible for supporting various projects' acitivities. Please refer to the resume above for further details."
+      }
+    ],
+    "extracurriculars":[
+      {
+        "organization":"MAC Formula Electric",
+        "title":"Battery Pack Engineering Co-Lead",
+        "years":"August 2020 - Present",
+        "description":"Working with the mechanical co-lead and Electrical Team Captain, I am responsible for overseeing the development of PCBA designs according to design requirements as well as manufacturing and assembly of electrical components within the high-voltage battery pack. Please refer to the resume above for further details."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
